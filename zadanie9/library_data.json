@@ -1,0 +1,83 @@
+{
+    "books": [
+        {
+            "Title": "The Great Gatsby",
+            "Creator": "F. Scott Fitzgerald",
+            "Year": 1925,
+            "Genre": "Classic",
+            "ISBN": "978-3-16-148410-0"
+        },
+        {
+            "Title": "Book1",
+            "Creator": "Anna Kowalska",
+            "Year": 2001,
+            "Genre": "Gatunek1",
+            "ISBN": "923-2-12-143230-1"
+        },
+        {
+            "Title": "Book2",
+            "Creator": "Anna Kowalska",
+            "Year": 1995,
+            "Genre": "Classic",
+            "ISBN": "924-1-62-142430-2"
+        },
+        {
+            "Title": "Book3",
+            "Creator": "Jan Nowak",
+            "Year": 1999,
+            "Genre": "Gatunek1",
+            "ISBN": "922-9-92-199430-3"
+        },
+        {
+            "Title": "Book4",
+            "Creator": "Jan Nowak",
+            "Year": 2006,
+            "Genre": "Classic",
+            "ISBN": "929-5-99-199255-4"
+        }
+    ],
+    "films": [
+        {
+            "Title": "Inception",
+            "Creator": "Christopher Nolan",
+            "Year": 2010,
+            "Genre": "Sci-Fi",
+            "Duration": 148
+        },
+        {
+            "Title": "Interstellar",
+            "Creator": "Christopher Nolan",
+            "Year": 2014,
+            "Genre": "Sci-Fi",
+            "Duration": 169
+        },
+        {
+            "Title": "Shutter Island",
+            "Creator": "Martin Scorsese",
+            "Year": 2010,
+            "Genre": "Mystery",
+            "Duration": 138
+        },
+        {
+            "Title": "Movie1",
+            "Creator": "Martin Scorsese",
+            "Year": 2010,
+            "Genre": "Sci-Fi",
+            "Duration": 148
+        },
+        {
+            "Title": "Movie2",
+            "Creator": "Martin Scorsese",
+            "Year": 2010,
+            "Genre": "Mystery",
+            "Duration": 148
+        },
+        {
+            "Title": "Movie3",
+            "Creator": "Christopher Nolan",
+            "Year": 2010,
+            "Genre": "Mystery",
+            "Duration": 148
+        }
+    ]
+}
